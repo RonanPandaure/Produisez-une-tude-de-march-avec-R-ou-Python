@@ -8,9 +8,8 @@ Identifier des groupes de pays cibles pour l’internationalisation de l’entre
 <h2> Outils maîtrisés </h2>
 
 - <b>Python : pandas, numpy pour le traitement des données/ matplotlib, seaborn, plotly pour la visualisation/scipy.stats ou statsmodels pour les tests statistiques 
-- <b>R (optionnel) : tidyverse, ggplot2, dplyr, readr
-- <b>PowerPoint, Google Slides ou Canva pour la présentation finale
-- <b>Environnement Jupyter Notebook ou RMarkdown
+- <b>PowerPoint pour la présentation finale
+- <b>Environnement Jupyter Notebook 
 
 
 <h2> Hard Skills </h2>
