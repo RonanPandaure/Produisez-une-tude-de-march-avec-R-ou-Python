@@ -14,7 +14,7 @@ Identifier des groupes de pays cibles pour l’internationalisation de l’entre
 
 <h2> Hard Skills </h2>
 
-- <b>Langages : Python ou R (Nettoyage et fusion de données avec pandas / dplyr ; Visualisation avec seaborn, matplotlib, ggplot2, plotly, etc.)
+- <b>Langages : Python (Nettoyage et fusion de données avec pandas ; Visualisation avec seaborn, matplotlib, ggplot2, plotly, etc.)
 - <b>Exploration et préparation des données: (Analyse exploratoire (EDA)/ Création d’au moins 3 variables via feature engineering/ Standardisation/normalisation)
 - <b>Analyse de données multivariée (ACP (PCA) : cercle des corrélations, projection des pays, réduction de dimensions/ Clustering hiérarchique (CAH / dendrogramme)/K-means : choix du bon k, visualisation par clusters/Comparaison des deux méthodes)
 - <b>Sources de données externes (FAO, Banque Mondiale, ONU, OCDE, etc./Critères inspirés de l’analyse PESTEL (Politique, Économique, Social, Technologique, Environnemental, Légal)
