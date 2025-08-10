@@ -2,6 +2,7 @@
 <h2>Description</h2>
 Identifier des groupes de pays cibles pour l’internationalisation de l’entreprise La Poule Qui Chante (spécialisée dans l’élevage et la vente de poulet bio) en s’appuyant sur une analyse de données multivariée (ACP + clustering), afin de fournir des recommandations claires au COMEX.
 
+
 <br />
 
 
